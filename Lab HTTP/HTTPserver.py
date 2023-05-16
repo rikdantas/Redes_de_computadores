@@ -1,11 +1,3 @@
-# UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
-# DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO
-# DISCIPLINA REDES DE COMPUTADORES (DCA0113)
-# AUTOR: PROF. CARLOS M D VIEGAS (viegas 'at' dca.ufrn.br)
-#
-# SCRIPT: Base de um servidor HTTP (python 3)
-#
-
 # importacao das bibliotecas
 import socket
 import os.path
